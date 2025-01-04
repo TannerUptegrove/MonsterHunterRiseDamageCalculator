@@ -15,7 +15,7 @@ Everything else was obtained from either the offiicial wiki or Game8 wiki: <br/>
 * https://monsterhunterrise.wiki.fextralife.com/Monster+Hunter+Rise+Wiki <br/>
 * https://game8.co/games/Monster-Hunter-Rise <br/><br/><br>
 
-Basics <br/>
+# Basics <br/>
 Raw Damage: Non-elemental damage. <br/><br/>
 
 Elemental Damage (Blight): Thunder, fire, water, ice, dragon. <br/><br/>
