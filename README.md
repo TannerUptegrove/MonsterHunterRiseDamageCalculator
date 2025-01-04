@@ -16,8 +16,9 @@ Everything else was obtained from either the offiicial wiki or Game8 wiki: <br/>
 * https://game8.co/games/Monster-Hunter-Rise <br/><br/><br>
 
 ##### Basics ##### <br/>
-Raw Damage: Non-elemental damage. <br/>
-Elemental Damage (Blight): Thunder, fire, water, ice, dragon. <br/>
-Elemental Damage (Status): Poison, paralysis, sleep, and blast. These will not deal damage to a monster's actual health, instead it will deal damage to their immunity. When this is depleted, the status effect will activate. <br/><br/>
+Raw Damage: Non-elemental damage. <br/><br/>
+Elemental Damage (Blight): Thunder, fire, water, ice, dragon. <br/><br/>
+Elemental Damage (Status): <br/>
+Poison, paralysis, sleep, and blast. These will not deal damage to a monster's actual health, instead it will deal damage to their immunity. When this is depleted, the status effect will activate. <br/><br/>
 
 Sharpness: Each color has a different value for both raw and elemental damage
