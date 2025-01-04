@@ -1,6 +1,6 @@
 # Monster Hunter Rise: Sunbreak Damage Calculator
 
-Website Sources <br/><br/>
+Website Sources <br/>
 * Motion Value Spreadsheet by Dreathcream#1576: <br/>http://bit.ly/MHRWeaponAttackTables <br/><br/>
 * Training Dummy Hitzones found by GaijinHunter: <br/>https://www.reddit.com/r/MonsterHunterMeta/comments/mkm3x3/training_room_hitzone_values/ <br/><br/>
 * Dango Skill Spreadsheet by Miyage: <br/>https://docs.google.com/spreadsheets/d/165AHWQNM-o3ClZWrhiO2KQ9tsvJEOrQnQWPR6snA9i4 <br/><br/>
