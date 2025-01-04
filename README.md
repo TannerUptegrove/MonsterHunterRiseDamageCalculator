@@ -13,4 +13,6 @@ Video Sources <br/>
 
 Everything else was obtained from either the offiicial wiki or Game8 wiki: <br/>
 * https://monsterhunterrise.wiki.fextralife.com/Monster+Hunter+Rise+Wiki <br/>
-* https://game8.co/games/Monster-Hunter-Rise <br/>
+* https://game8.co/games/Monster-Hunter-Rise <br/><br/><br>
+
+----- Basics -----
