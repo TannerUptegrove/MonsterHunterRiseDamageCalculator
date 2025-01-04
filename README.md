@@ -18,9 +18,9 @@ Everything else was obtained from either the offiicial wiki or Game8 wiki: <br/>
 # Basics <br/>
 Raw Damage: Non-elemental damage. <br/><br/>
 
-Elemental Damage (Blight): Thunder, fire, water, ice, dragon. <br/><br/>
+Elemental Damage (Blight): Thunder, fire, water, ice, dragon damage. <br/><br/>
 
 Elemental Damage (Status): <br/>
-Poison, paralysis, sleep, and blast. These will not deal damage to a monster's primary health. Instead they will deal damage to their immunity.<br/><br/>
+Poison, paralysis, sleep, and blast damage. Do not include these in the calculations, they do not deal damage to a monster's actual health.<br/><br/>
 
 Sharpness: Each color has a different value for both raw and elemental damage
