@@ -5,7 +5,7 @@ Website Sources <br/>
 * Training Dummy Hitzones found by GaijinHunter: <br/>https://www.reddit.com/r/MonsterHunterMeta/comments/mkm3x3/training_room_hitzone_values/ <br/><br/>
 * Dango Skill Spreadsheet by Miyage: <br/>https://docs.google.com/spreadsheets/d/165AHWQNM-o3ClZWrhiO2KQ9tsvJEOrQnQWPR6snA9i4 <br/><br/>
 
-Videos <br/>
+Video Sources <br/>
 * Hunting Horn Songs: https://www.youtube.com/watch?v=J5E8snoK8Q0 <br/>
 * Dragon Conversion: https://www.youtube.com/watch?v=cMArkUMF0fM <br/>
 * Frostcraft: https://www.youtube.com/watch?v=cXXFbi2Wacw&pp=ygUHI3Jpc2VjYg%3D%3D <br/>
