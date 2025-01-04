@@ -21,6 +21,14 @@ Raw Damage: Non-elemental damage. <br/><br/>
 Elemental Damage (Blight): Thunder, fire, water, ice, dragon damage. <br/><br/>
 
 Elemental Damage (Status): <br/>
-Poison, paralysis, sleep, and blast damage. Do not include these in the calculations, they do not deal damage to a monster's actual health.<br/><br/>
+Poison, paralysis, sleep, and blast damage. Do not include these in the calculations, they do not deal damage to a monster's actual health. <br/><br/>
 
-Sharpness: Each color has a different value for both raw and elemental damage
+Sharpness: Each color has a different value for both raw and elemental damage. <br/><br/>
+Raw Sharpness Multipliers:     Elemental Sharpness Multipliers: <br/>
+Red:    0.50                   Red: 0.25 <br/>
+Orange: 0.75                   Orange: 0.50 <br/>
+Yellow: 1.00                   Yellow: 0.75 <br/>
+Green:  1.05                   Green:  1.00 <br/>
+Blue:   1.20                   Blue:   1.0625 <br/>
+White:  1.32                   White:  1.15 <br/>
+Purple: 1.39                   Purple: 1.25 <br/>
