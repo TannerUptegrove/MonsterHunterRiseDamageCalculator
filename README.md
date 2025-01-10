@@ -11,6 +11,6 @@ Video Sources <br/>
 * Frostcraft: https://www.youtube.com/watch?v=cXXFbi2Wacw&pp=ygUHI3Jpc2VjYg%3D%3D <br/>
 * Waterblight: https://www.youtube.com/watch?v=VlX7_ifCo_0&t=660s <br/><br/>
 
-Everything else was obtained from either the offiicial wiki or Game8 wiki: <br/>
+Everything else was obtained from either the official wiki or Game8 wiki: <br/>
 * https://monsterhunterrise.wiki.fextralife.com/Monster+Hunter+Rise+Wiki <br/>
 * https://game8.co/games/Monster-Hunter-Rise <br/><br/><br>
