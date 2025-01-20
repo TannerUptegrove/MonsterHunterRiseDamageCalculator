@@ -6,7 +6,6 @@ namespace MHRCalculator
 {
     internal class MHRCalculator
     {
-        #region Ugly Variable List
         /********************************************************************************************
          * User input variables:
          * As the calculations execute, the variables for raw damage, elemental damage, affinity,
@@ -17,7 +16,7 @@ namespace MHRCalculator
         static float enteredAffinity, enteredRawHitzone, enteredEleHitzone;
         static string enteredSharpness;
 
-        //Basic variables
+        //Player state / weapon variables
         static bool includeSunbreakArmorSkills;
         static int statusMenuRaw, statusMenuEle, totalElementalResistance, rawFlatBonusDmg, eleFlatBonusDmg;
         static double raw, ele, totalRaw, totalEle, totalRawCrit, totalEleCrit, totalDmg, totalDmgCrit;
