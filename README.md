@@ -1,5 +1,8 @@
 # Monster Hunter Rise: Sunbreak Damage Calculator
 
+My first official project! Terminal based calculator made in C#. <br/>
+
+
 Specific Website Sources <br/>
 * Motion Value Spreadsheet by Dreathcream#1576: <br/>http://bit.ly/MHRWeaponAttackTables <br/><br/>
 * Training Dummy Hitzones found by GaijinHunter: <br/>https://www.reddit.com/r/MonsterHunterMeta/comments/mkm3x3/training_room_hitzone_values/ <br/><br/>
@@ -11,6 +14,6 @@ Specific Video Sources <br/>
 * Frostcraft: https://www.youtube.com/watch?v=cXXFbi2Wacw&pp=ygUHI3Jpc2VjYg%3D%3D <br/>
 * Waterblight: https://www.youtube.com/watch?v=VlX7_ifCo_0&t=660s <br/><br/>
 
-Everything else was obtained from either the official wiki or Game8 wiki: <br/>
+Everything else was obtained from either the official wiki or the Game8 wiki: <br/>
 * https://monsterhunterrise.wiki.fextralife.com/Monster+Hunter+Rise+Wiki <br/>
 * https://game8.co/games/Monster-Hunter-Rise <br/><br/><br>
