@@ -6,7 +6,7 @@ Instructions: <br/>
 * Enter "?" on a prompt to get additional information. <br/>
 * Enter "back" to redo certain inputs. <br/>
 * At the end, enter "redo" to make another calculation. <br/>
-* At the end, enter "Replace" to change a specific input and recalculate. <br/>
+* At the end, enter "Replace" to change a specific input and recalculate. <br/><br/>
 
 Specific Website Sources <br/>
 * Motion Value Spreadsheet by Dreathcream#1576: <br/>http://bit.ly/MHRWeaponAttackTables <br/><br/>
