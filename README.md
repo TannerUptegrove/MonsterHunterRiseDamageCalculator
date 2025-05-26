@@ -1,7 +1,12 @@
 # Monster Hunter Rise: Sunbreak Damage Calculator
 
-My first official project! Terminal based calculator made in C#. <br/>
+My first official project! Terminal based calculator made in C#. <br/><br/>
 
+Instructions: <br/>
+* Enter "?" on a prompt to get additional information. <br/>
+* Enter "back" to redo certain inputs. <br/>
+* At the end, enter "redo" to make another calculation. <br/>
+* At the end, enter "Replace" to change a specific input and recalculate. <br/>
 
 Specific Website Sources <br/>
 * Motion Value Spreadsheet by Dreathcream#1576: <br/>http://bit.ly/MHRWeaponAttackTables <br/><br/>
