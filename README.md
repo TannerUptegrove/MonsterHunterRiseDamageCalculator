@@ -3,7 +3,7 @@
 My first official project! Terminal based calculator made in C#. <br/><br/>
 
 Instructions: <br/>
-* Enter "?" on a prompt to get additional information. The information can <br/>
+* Enter "?" on an input to get additional information. The information can <br/>
   also be found in "General Notes.txt". <br/>
 * Enter "back" to redo certain inputs. <br/>
 * At the end, enter "redo" to make another calculation. <br/>
