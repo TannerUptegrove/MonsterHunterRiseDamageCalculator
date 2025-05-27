@@ -119,3 +119,10 @@ C:\Users\Tanner Uptegrove\Documents\_Computer Science Side Projects\MHR Calculat
 C:\Users\Tanner Uptegrove\Documents\_Computer Science Side Projects\MHR Calculator\V17\MHRCalculator\MHRCalculator\obj\Debug\MHRCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Tanner Uptegrove\Documents\_Computer Science Side Projects\MHR Calculator\V17\MHRCalculator\MHRCalculator\obj\Debug\MHRCalculator.exe
 C:\Users\Tanner Uptegrove\Documents\_Computer Science Side Projects\MHR Calculator\V17\MHRCalculator\MHRCalculator\obj\Debug\MHRCalculator.pdb
+C:\Users\Tanner Uptegrove\Documents\_Computer Science_\_Side Projects_\MHR Calculator\MHRCalculator\V17\MHRCalculator\MHRCalculator\bin\Debug\MHRCalculator.exe.config
+C:\Users\Tanner Uptegrove\Documents\_Computer Science_\_Side Projects_\MHR Calculator\MHRCalculator\V17\MHRCalculator\MHRCalculator\bin\Debug\MHRCalculator.exe
+C:\Users\Tanner Uptegrove\Documents\_Computer Science_\_Side Projects_\MHR Calculator\MHRCalculator\V17\MHRCalculator\MHRCalculator\bin\Debug\MHRCalculator.pdb
+C:\Users\Tanner Uptegrove\Documents\_Computer Science_\_Side Projects_\MHR Calculator\MHRCalculator\V17\MHRCalculator\MHRCalculator\obj\Debug\MHRCalculator.csproj.AssemblyReference.cache
+C:\Users\Tanner Uptegrove\Documents\_Computer Science_\_Side Projects_\MHR Calculator\MHRCalculator\V17\MHRCalculator\MHRCalculator\obj\Debug\MHRCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Tanner Uptegrove\Documents\_Computer Science_\_Side Projects_\MHR Calculator\MHRCalculator\V17\MHRCalculator\MHRCalculator\obj\Debug\MHRCalculator.exe
+C:\Users\Tanner Uptegrove\Documents\_Computer Science_\_Side Projects_\MHR Calculator\MHRCalculator\V17\MHRCalculator\MHRCalculator\obj\Debug\MHRCalculator.pdb

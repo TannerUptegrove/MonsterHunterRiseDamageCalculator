@@ -6,6 +6,7 @@ namespace MHRCalculator
 {
     internal class MHRCalculator
     {
+        #region Ugly Variable List
         /********************************************************************************************
          * User input variables:
          * As the calculations execute, the variables for raw damage, elemental damage, affinity,
@@ -16,7 +17,7 @@ namespace MHRCalculator
         static float enteredAffinity, enteredRawHitzone, enteredEleHitzone;
         static string enteredSharpness;
 
-        //Player state / weapon variables
+        //Basic variables
         static bool includeSunbreakArmorSkills;
         static int statusMenuRaw, statusMenuEle, totalElementalResistance, rawFlatBonusDmg, eleFlatBonusDmg;
         static double raw, ele, totalRaw, totalEle, totalRawCrit, totalEleCrit, totalDmg, totalDmgCrit;
@@ -277,7 +278,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Weapon Type: "); ;
                 input = ReadLine().ToLower().Trim();
 
@@ -336,13 +336,12 @@ namespace MHRCalculator
         static void InputWeaponTypeBuff() 
         {
             string input;
-            weaponTypeBuff = ""; //If the user has a weapon with no weapon specific buff.
+            weaponTypeBuff = ""; //Set to "" if the user has a weapon with no weapon specific buff.
 
             if (weaponType == "greatsword")
             {
                 do
                 {
-                    ResetColor();
                     Write(" Power Sheathe (y/n): ");
                     input = ReadLine().ToLower().Trim();
 
@@ -368,7 +367,6 @@ namespace MHRCalculator
 
                 do
                 {
-                    ResetColor();
                     Write(" Spirit Gauge Level (0-3): ");
                     input = ReadLine().ToLower().Trim();
 
@@ -401,7 +399,6 @@ namespace MHRCalculator
 
                 do
                 {
-                    ResetColor();
                     Write(" Dual Blades Mode (0-3): ");
                     input = ReadLine().ToLower().Trim();
 
@@ -436,7 +433,6 @@ namespace MHRCalculator
             {
                 do
                 {
-                    ResetColor();
                     Write(" Infernal Melody (y/n): ");
                     input = ReadLine().ToLower().Trim();
                     
@@ -459,7 +455,6 @@ namespace MHRCalculator
             {
                 do
                 {
-                    ResetColor();
                     Write(" Charged Shield (y/n): ");
                     input = ReadLine().ToLower().Trim();
 
@@ -481,7 +476,6 @@ namespace MHRCalculator
             {
                 do
                 {
-                    ResetColor();
                     Write(" Using Sword Mode (y/n): ");
                     input = ReadLine().ToLower().Trim();
 
@@ -526,7 +520,6 @@ namespace MHRCalculator
                 
                 do
                 {
-                    ResetColor();
                     Write(" Kinsects active (0-2): ");
                     input = ReadLine().ToLower().Trim();
 
@@ -557,7 +550,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Swap Scroll Color (Red / Blue): ");
                 input = ReadLine().ToLower().Trim();
 
@@ -579,7 +571,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Raw Damage: ");
                 input = ReadLine().ToLower().Trim();
 
@@ -599,7 +590,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Elemental Damage: ");
                 input = ReadLine().ToLower().Trim();
 
@@ -628,7 +618,6 @@ namespace MHRCalculator
         {
             do
             {
-                ResetColor();
                 Write(" Sharpness: ");
                 enteredSharpness = ReadLine().ToLower().Trim();
 
@@ -691,7 +680,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Affinity: ");
                 input = ReadLine().ToLower().Trim();
 
@@ -716,7 +704,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Motion Value: ");
                 input = ReadLine().ToLower().Trim();
 
@@ -738,7 +725,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Raw Hitzone: ");
                 input = ReadLine().ToLower().Trim();
 
@@ -765,7 +751,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Elemental Hitzone: ");
                 input = ReadLine().ToLower().Trim();
 
@@ -791,7 +776,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Raw flat bonus damage: ");
                 input = ReadLine().Trim().ToLower();
 
@@ -814,7 +798,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Raw percent bonus damage: ");
                 input = ReadLine().ToLower().Trim();
 
@@ -837,7 +820,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Elemental flat bonus damage: ");
                 input = ReadLine().Trim().ToLower();
 
@@ -857,7 +839,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Elemental percent bonus damage: ");
                 input = ReadLine().ToLower().Trim();
 
@@ -880,7 +861,6 @@ namespace MHRCalculator
 
             do
             {
-                ResetColor();
                 Write(" Raw damage multiplier: ");
                 input = ReadLine().ToLower().Trim();
 
@@ -901,9 +881,9 @@ namespace MHRCalculator
         {
             string input;
 
+            ResetColor();
             do
-            {
-                ResetColor();
+            {   
                 Write(" Elemental damage multiplier: ");
                 input = ReadLine().ToLower().Trim();
 
